@@ -3,4 +3,30 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="gj_colorPrimary">#3F51B5</color>
+    <color name="gj_colorPrimaryDark">#303F9F</color>
+    <color name="gj_colorAccent">#FF4081</color>
+    <color name="gj_6593cb">#6593cb</color>
+    <color name="gj_171721">#171721</color>
+    <color name="gj_e3e4e8">#e3e4e8</color>
+    <color name="gj_1fb3ff">#1fb3ff</color>
+    <color name="gj_000000">#000000</color>
+    <color name="gj_999999">#999999</color>
+    <color name="gj_333333">#333333</color>
+    <color name="gj_B26200">#B26200</color>
+    <color name="gj_DDDDDD">#DDDDDD</color>
+    <color name="gj_FF4B41">#FF4B41</color>
+    <color name="gj_666666">#666666</color>
+    <color name="gj_E4E4E4">#E4E4E4</color>
+    <color name="gj_FF5C5C">#FF5C5C</color>
+    <color name="gj_f3f5f7">#f3f5f7</color>
+    <color name="gj_ff5c5c">#ff5c5c</color>
+    <color name="gj_BFDDF6">#BFDDF6</color>
+
+    <color name="gj_F3F5F7">#F3F5F7</color>
+    <color name="gj_576B95">#576B95</color>
+    <color name="gj_27ADEA">#27ADEA</color>
+    <color name="gj_298BE0">#298BE0</color>
+    <color name="gj_262626">#262626</color>
+    <color name="gj_EEEEEE">#EEEEEE</color>
 </resources>

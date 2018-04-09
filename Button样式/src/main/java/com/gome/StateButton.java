@@ -92,9 +92,9 @@ public class StateButton extends AppCompatButton {
         mStateBackground.setEnterFadeDuration(mDuration);
         mStateBackground.setExitFadeDuration(mDuration);
         //设置不同状态GradientDrawable颜色
-        mNormalBackgroundColor = typedArray.getColor(R.styleable.StateButton_normalBackgroundColor, 0);
-        mPressedBackgroundColor = typedArray.getColor(R.styleable.StateButton_pressedBackgroundColor, 0);
-        mUnableBackgroundColor = typedArray.getColor(R.styleable.StateButton_unableBackgroundColor, 0);
+        mNormalBackgroundColor = typedArray.getColor(R.styleable.StateButton_normalBackgroundColor, getResources().getColor(android.R.color.darker_gray));
+        mPressedBackgroundColor = typedArray.getColor(R.styleable.StateButton_pressedBackgroundColor,  getResources().getColor(android.R.color.darker_gray));
+        mUnableBackgroundColor = typedArray.getColor(R.styleable.StateButton_unableBackgroundColor, getResources().getColor(android.R.color.darker_gray));
         mNormalBackground.setColor(mNormalBackgroundColor);
         mPressedBackground.setColor(mPressedBackgroundColor);
         mUnableBackground.setColor(mUnableBackgroundColor);
