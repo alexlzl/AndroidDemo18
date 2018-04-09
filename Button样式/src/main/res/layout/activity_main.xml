@@ -81,8 +81,8 @@
 
         <com.gome.StateButton
             android:id="@+id/different_radius_test"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="600px"
+            android:layout_height="300px"
             android:layout_gravity="center_horizontal"
             android:layout_margin="10dp"
             android:padding="10dp"
