@@ -1,4 +1,4 @@
-package deadline.statebutton;
+package com.gome;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         text.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                text.setEnabled(false);
+//                text.setEnabled(false);
             }
         });
 
@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
         //设置四个角不同的圆角
         radius = (StateButton) findViewById(R.id.different_radius_test);
-        radius.setRadius(new float[]{0, 0, 20, 20, 40, 40, 60, 60});
+        radius.setCornerRadius(new float[]{0, 0, 20, 20, 40, 40, 60, 60});
 
 
         //设置不同状态下边框颜色，宽度

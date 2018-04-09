@@ -11,8 +11,15 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+        <com.gome.StateButton
+            app:isRound="true"
+            android:text="default"
+            app:pressedTextColor="@color/colorAccent"
+            app:normalBackgroundColor="@color/colorPrimary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/text_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -20,15 +27,16 @@
             android:layout_margin="10dp"
             android:padding="10dp"
             android:text="change text color"
+            app:isRound="true"
             app:normalBackgroundColor="@color/colorPrimary"
             app:normalTextColor="@android:color/white"
-            app:pressedBackgroundColor="@color/colorPrimary"
+            app:pressedBackgroundColor="@android:color/holo_orange_dark"
             app:pressedTextColor="@android:color/holo_red_light"
             app:unableBackgroundColor="@color/colorPrimary"
             app:unableTextColor="@android:color/holo_orange_dark"/>
 
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/background_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -42,7 +50,7 @@
             app:unableBackgroundColor="@android:color/holo_red_light"/>
 
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/radius_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -56,7 +64,7 @@
             app:radius="10dp"
             app:unableBackgroundColor="@android:color/holo_red_light"/>
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/round_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -67,11 +75,11 @@
             android:textColor="@android:color/white"
             app:normalBackgroundColor="@color/colorPrimary"
             app:pressedBackgroundColor="@color/colorPrimaryDark"
-            app:round="true"
+            app:isRound="true"
             app:radius="2dp"
             app:unableBackgroundColor="@android:color/holo_red_light"/>
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/different_radius_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -84,7 +92,7 @@
             app:pressedBackgroundColor="@color/colorPrimaryDark"
             app:unableBackgroundColor="@android:color/holo_red_light"/>
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/dash_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -93,6 +101,7 @@
             android:padding="10dp"
             android:text="with dash"
             app:radius="5dp"
+            app:normalBackgroundColor="@color/colorPrimary"
             app:strokeDashGap="5dp"
             app:strokeDashWidth="5dp"
             app:normalStrokeColor="@android:color/white"
@@ -105,7 +114,7 @@
             app:unableStrokeWidth="2dp"
             app:unableTextColor="@android:color/holo_orange_dark"/>
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/stroke_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -124,7 +133,7 @@
             app:unableStrokeWidth="2dp"
             app:unableTextColor="@android:color/holo_orange_dark"/>
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/stroke_background_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -141,7 +150,7 @@
             app:pressedBackgroundColor="@color/colorPrimaryDark"
             app:pressedTextColor="@android:color/white"/>
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/stroke_background_test2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -156,7 +165,7 @@
             app:pressedBackgroundColor="@color/colorPrimaryDark"
             app:pressedTextColor="@android:color/white"/>
 
-        <deadline.statebutton.StateButton
+        <com.gome.StateButton
             android:id="@+id/stroke_background_animation_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
