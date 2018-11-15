@@ -8,8 +8,20 @@
       <module fileurl="file://$PROJECT_DIR$/Button样式1/Button样式1.iml" filepath="$PROJECT_DIR$/Button样式1/Button样式1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Button样式1Lib/Button样式1Lib.iml" filepath="$PROJECT_DIR$/Button样式1Lib/Button样式1Lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo10.iml" filepath="$PROJECT_DIR$/Demo10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Edittext/Edittext.iml" filepath="$PROJECT_DIR$/Edittext/Edittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib1/Lib1.iml" filepath="$PROJECT_DIR$/Lib1/Lib1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib2/Lib2.iml" filepath="$PROJECT_DIR$/Lib2/Lib2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1/Module1.iml" filepath="$PROJECT_DIR$/Module1/Module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Module2.iml" filepath="$PROJECT_DIR$/Module2/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnSaveInstance/OnSaveInstance.iml" filepath="$PROJECT_DIR$/OnSaveInstance/OnSaveInstance.iml" />
       <module fileurl="file://C:\Users\liuzhouliang.DS\Desktop\Project\Demo10\StateButton.iml" filepath="C:\Users\liuzhouliang.DS\Desktop\Project\Demo10\StateButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test2/Test2.iml" filepath="$PROJECT_DIR$/Test2/Test2.iml" />
+      <module fileurl="file://C:\Users\liuzhouliang.DS\Desktop\Project\Demo10\资源目录\Test2.iml" filepath="C:\Users\liuzhouliang.DS\Desktop\Project\Demo10\资源目录\Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test3/Test3.iml" filepath="$PROJECT_DIR$/Test3/Test3.iml" />
       <module fileurl="file://C:\Users\liuzhouliang.DS\Desktop\Project\Demo10\app\app.iml" filepath="C:\Users\liuzhouliang.DS\Desktop\Project\Demo10\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资源目录/资源目录.iml" filepath="$PROJECT_DIR$/资源目录/资源目录.iml" />
     </modules>
   </component>
 </project>

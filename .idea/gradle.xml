@@ -5,14 +5,24 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="F:\android studio install\gradle\gradle-2.8" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="gradleHome" value="F:/android studio install/gradle/gradle-2.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Button样式" />
             <option value="$PROJECT_DIR$/Button样式1" />
             <option value="$PROJECT_DIR$/Button样式1Lib" />
+            <option value="$PROJECT_DIR$/Edittext" />
+            <option value="$PROJECT_DIR$/Lib1" />
+            <option value="$PROJECT_DIR$/Lib2" />
+            <option value="$PROJECT_DIR$/Main" />
+            <option value="$PROJECT_DIR$/Module1" />
+            <option value="$PROJECT_DIR$/Module2" />
+            <option value="$PROJECT_DIR$/OnSaveInstance" />
+            <option value="$PROJECT_DIR$/Test1" />
+            <option value="$PROJECT_DIR$/Test2" />
+            <option value="$PROJECT_DIR$/Test3" />
+            <option value="$PROJECT_DIR$/资源目录" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

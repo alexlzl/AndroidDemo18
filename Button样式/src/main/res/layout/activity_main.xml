@@ -14,6 +14,8 @@
         <com.gome.StateButton
             app:isRound="true"
             android:text="default"
+            app:normalStrokeWidth="2dp"
+            app:normalStrokeColor="@color/colorAccent"
             app:pressedTextColor="@color/colorAccent"
             app:normalBackgroundColor="@color/colorPrimary"
             android:layout_width="wrap_content"
